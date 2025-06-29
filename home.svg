@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
 <svg
    id="Layer_1"
    version="1.1"
@@ -71,7 +70,7 @@
      style="display:inline" />
   <a
      id="a2"
-     xlink:href="http://www.wilburtoncomputerrepair.com"
+     xlink:href="https://bloodmoonart.github.io/wcrw/"
      target="&quot;_blank&quot;"
      transform="translate(-112.28071,96.561403)">
     <text
@@ -80,7 +79,7 @@
        style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#f2b48d;fill-opacity:1"><tspan
          x="183.01758"
          y="300.16419"
-         id="tspan4">About</tspan></text>
+         id="tspan1">About</tspan></text>
   </a>
   <a
      id="a3"
@@ -94,7 +93,7 @@
        transform="translate(-7.8596491,-26.947368)"><tspan
          x="189.75391"
          y="373.14661"
-         id="tspan6">Home</tspan></text>
+         id="tspan2">Home</tspan></text>
   </a>
   <text
      xml:space="preserve"
@@ -127,6 +126,6 @@
        style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#e9a885;fill-opacity:1"><tspan
          x="72.982422"
          y="392.2345"
-         id="tspan7">Art</tspan></text>
+         id="tspan3">Art</tspan></text>
   </a>
 </svg>
